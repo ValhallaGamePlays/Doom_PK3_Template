@@ -1,0 +1,7 @@
+//Animation Definitions//
+
+texture STYX1
+pic STYX1 tics 10
+pic STYX2 tics 15
+pic STYX3 tics 35
+pic STYX2 tics 15
