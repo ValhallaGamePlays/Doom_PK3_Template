@@ -1,2 +1,3 @@
 # Doom_PK3_Template
 A simple .pk3 template for organizing doom textures/actors/music/etc.
+The contents of this git come from Mr. Enchanter's Template.pk3. Thank him, I am just the messenger...
